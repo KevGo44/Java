@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ufospiel",
+            "request": "launch",
+            "mainClass": "Ufospiel",
+            "cwd": "${workspaceFolder}/Kevin-Küster_Ufospiel-v3.7.3",
+            "classPaths": [
+                "${workspaceFolder}/lib/sas.5.7.jar",
+                "${workspaceFolder}/Kevin-Küster_Ufospiel-v3.7.3"
+            ]
+        }
+    ]
+}
